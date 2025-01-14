@@ -1,1 +1,2 @@
-echo "Primer commit" > historial.txt
+echo "Primer commit"
+echo "segundo commit" 
